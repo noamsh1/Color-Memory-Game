@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 46164050f3650aa46867bb187c389dad
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - gameTile: {fileID: 6564869082443314214, guid: 20b08519208987b4b9fa649cd264b8bb, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
